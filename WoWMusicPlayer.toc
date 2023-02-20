@@ -1,0 +1,7 @@
+## Interface: 30401
+## Title: WowMusicPlayer 
+## Notes: Allows user to play sounds in game 
+## Author: tildahh
+## Version: 0.0.1
+
+WoWMusicPlayer.lua 
